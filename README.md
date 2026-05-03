@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 👋 Hi, I am Selamawit.<br>• 👩‍💻 I'm an AI Engineer and senior Software Engineering student.<br>• 🔭 I'm currently working on developing projects related to AI and Machine Learning.<br>• 🌱 I'm currently learning Agent-Based Systems.<br>• 💭 Ask me anything regarding Java, Python and C++.<br>• 📨 How to reach me: selitaelias@gmail.com
+• 👋 Hi, I am Selamawit.<br>• 👩‍💻 I'm a Senior Software Engineering student.<br>• 🔭 I'm currently working on developing projects related to AI and Machine Learning.<br>• 🌱 I'm currently learning Agent-Based Systems.<br>• 💭 Ask me anything regarding Java, Python and C++.<br>• 📨 How to reach me: selitaelias@gmail.com
 
 
 # 💻 Tech Stack:
